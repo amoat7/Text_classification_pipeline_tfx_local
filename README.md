@@ -6,3 +6,4 @@ Text classification pipeline with TFX on your local environment
 - Statisticsgen Component
 - SchemaGen
 - Examplevalidator
+- Transform
