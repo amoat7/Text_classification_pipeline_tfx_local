@@ -7,3 +7,4 @@ Text classification pipeline with TFX on your local environment
 - SchemaGen
 - Examplevalidator
 - Transform
+- Trainer
