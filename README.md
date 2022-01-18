@@ -8,3 +8,5 @@ Text classification pipeline with TFX on your local environment
 - Examplevalidator
 - Transform
 - Trainer
+- Evaluator
+- Pusher
